@@ -1,0 +1,1 @@
+# Parallel-gauss-elimination-with-max-of-the-whole-matrix
